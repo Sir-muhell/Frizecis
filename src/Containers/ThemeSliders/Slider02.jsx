@@ -7,7 +7,7 @@ const Slider02 = () => {
     {
       id: "1",
       bg: "images/slider/bg3.jpg",
-      heading: "COMPREHENSIVE CONSTRUCTION SOLUTIONS",
+      heading: "COMPREHENSIVE BUILDING AND CONSTRUCTION SOLUTIONS",
       description:
         "A leading professional in building construction processes and quality management systems for building construction.",
       obj1: "floating_object_3",

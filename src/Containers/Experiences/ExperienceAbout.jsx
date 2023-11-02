@@ -4,7 +4,7 @@ import AboutBelowContent02 from "../../Components/ExperienceBlocks/AboutBelowCon
 const ExperienceAbout = () => {
   const headerData = {
     heading: "Building Dream into Reality",
-    subheading: "ABOUT Frizecis Global CONSTRUCTION",
+    subheading: "ABOUT Frizecis Global Nig. Ltd.",
   };
 
   const ExpericenData = [
@@ -89,7 +89,7 @@ const ExperienceAbout = () => {
                     <div className="about_below_content_text">
                       <h5>Our Mission</h5>
                       <p>
-                        Frizecis Globalm is a well established building
+                        Frizecis Global Nig. Ltd. is a well established building
                         construction firm.
                       </p>
                     </div>
@@ -131,7 +131,7 @@ const ExperienceAbout = () => {
                   <div className="about_below_content">
                     <img src="images/about/t2.png" alt="" />
                     <div className="about_below_content_text">
-                      <h5>Our Mission</h5>
+                      <h5>Our Vision</h5>
                       <p>
                         We serve with character and purpose that brings clients
                         satisfaction.

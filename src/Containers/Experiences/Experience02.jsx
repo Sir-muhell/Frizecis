@@ -3,7 +3,7 @@ import React from "react";
 const Experience02 = () => {
   const headerData = {
     heading: "providing pristine solutions ",
-    subheading: "ABOUT Frizecis Global",
+    subheading: "ABOUT Frizecis Global Nig. Ltd.",
     detail:
       "FRIZECIS GLOBAL NIGERIA LIMITED provides professional building construction processes and quality management system for building construction.",
     img: "images/about/call_img.png",
@@ -49,20 +49,12 @@ const Experience02 = () => {
                       </p>
                       <h4>
                         <a
-                          href="tel: +234 806 243 1888"
+                          href="tel: +234 814 0076 422"
                           style={{ color: "white" }}
                         >
-                          +234 806 243 1888
+                          +234 814 0076 422
                         </a>
                         <br />
-                        <span> or </span>
-                        <br />
-                        <a
-                          href="tel:+234 808 944 7951"
-                          style={{ color: "white" }}
-                        >
-                          +234 808 944 7951
-                        </a>
                       </h4>
                     </div>
                   </div>

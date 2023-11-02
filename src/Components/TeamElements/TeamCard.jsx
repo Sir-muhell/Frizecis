@@ -6,7 +6,7 @@ const TeamCard = ({ data }) => {
     <div className="item">
       <div className="team_construction">
         <figure className="team_construction_inner">
-          <a href="/team">
+          <a href="">
             <img
               src={img}
               alt="{name}"
@@ -15,7 +15,7 @@ const TeamCard = ({ data }) => {
             />
           </a>
           <div className="team-box__info">
-            <a href="/team" className="name h5">
+            <a href="" className="name h5">
               {name}
             </a>
             <p className="position">{tag}</p>
@@ -40,7 +40,7 @@ const TeamCard = ({ data }) => {
                         </li> */}
           </ul>
           <h2 className="speaker-title-simple">
-            <a href="/team">{name}</a>
+            <a href="">{name}</a>
           </h2>
           <p>{tag}</p>
         </div>

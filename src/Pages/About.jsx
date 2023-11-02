@@ -21,7 +21,7 @@ const About = () => {
         activeClass01="active"
         activeClass02="d-none"
         routeName01="About Us"
-        heading="About Frizecis Global"
+        heading="About Frizecis Global Nig. Ltd. "
       />
 
       <div className="main_wrapper">
@@ -36,11 +36,11 @@ const About = () => {
         <Banner
           title="Do you need to make further enquires about our services? Call us."
           heading="Call Us Anytime"
-          phone="(+234) 806 243 1888"
+          phone="(+234) 814 0076 422"
           bannerType="banner banner_bg_color"
         />
 
-        <Testimonial01 pb="pd_btom_110" />
+        {/* <Testimonial01 pb="pd_btom_110" /> */}
         {/* <Partners02 pt="pd_tp_110" /> */}
       </div>
     </>

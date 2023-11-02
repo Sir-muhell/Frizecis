@@ -10,8 +10,8 @@ const ContactPage = () => {
       id: "1",
       iconClass: "ion-ios-telephone-outline",
       infoBody01: "Phone No",
-      infoBody02: "+234 806 243 1888",
-      infoBody03: "+234 808 944 7951",
+      infoBody02: "+234 814 0076 422",
+      infoBody03: "",
     },
     {
       id: "2",
@@ -24,8 +24,8 @@ const ContactPage = () => {
       id: "3",
       iconClass: "fa fa-map-marker",
       infoBody01: "Office Address",
-      infoBody02:
-        "3, Segun Ogunwale Street, Off S.Eze Crescent, Igando, Lagos.",
+      infoBody02: "3, Segun Ogunwale Street,",
+      infoBody03: " Off S.Eze Crescent, Igando, Lagos.",
       infoBodyClass: "d-none",
     },
   ];
@@ -149,7 +149,7 @@ const ContactPage = () => {
         <Banner
           title="Do you need to make further enquires about our services? Call us."
           heading="Call Us Anytime"
-          phone="(+234) 806 243 1888"
+          phone="(+234) 814 0076 422"
           bannerType="banner banner_bg_color"
         />
       </div>

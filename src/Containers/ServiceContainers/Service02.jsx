@@ -44,6 +44,13 @@ const Service02 = () => {
       title:
         "Comprehensive Mechanical and Electrical Designs by Frizecis Global.",
     },
+    {
+      id: "6",
+      img: "images/services/s7.png",
+      img02: "images/services/Service_Hover_images/5.jpg",
+      tag: "PROCUREMENT & SUPPLY CHAIN MANAGEMENT",
+      title: "Strategic Procurement and Supply Chain Solutions",
+    },
   ];
 
   return (
@@ -127,9 +134,17 @@ const Service02 = () => {
 
             {/* <!-- Add Buttons --> */}
             {/* <div className="owl-nav">
-                            <button type="button" role="presentation" className="owl-prev disabled"><i className="fa fa-long-arrow-left"></i></button>
-                            <button type="button" role="presentation" className="owl-next"><i className="fa fa-long-arrow-right"></i></button>
-                        </div> */}
+              <button
+                type="button"
+                role="presentation"
+                className="owl-prev disabled"
+              >
+                <i className="fa fa-long-arrow-left"></i>
+              </button>
+              <button type="button" role="presentation" className="owl-next">
+                <i className="fa fa-long-arrow-right"></i>
+              </button>
+            </div> */}
           </div>
         </div>
       </div>

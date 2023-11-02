@@ -42,6 +42,13 @@ const ServiceContainer01 = () => {
       title:
         "Comprehensive Mechanical and Electrical Designs by Frizecis Global.",
     },
+    {
+      id: "6",
+      img: "images/services/s7.png",
+      img02: "images/services/Service_Hover_images/5.jpg",
+      tag: "PROCUREMENT & SUPPLY CHAIN MANAGEMENT",
+      title: "Strategic Procurement and Supply Chain Solutions",
+    },
   ];
 
   return (

@@ -233,7 +233,7 @@ const ProjectDetailsContainer = () => {
                   <div className="d-none d-md-block">
                     <span>Call Us Anytime</span>
                     <br />
-                    <span className="phn_number">+234 806 243 1888</span>
+                    <span className="phn_number">+234 814 0076 422</span>
                   </div>
                   <div className="logo d-block d-sm-none">
                     <a href="/" className="light_mode_logo">

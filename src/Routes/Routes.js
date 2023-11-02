@@ -67,14 +67,14 @@ export const routes = createBrowserRouter([
         path: "/about",
         element: <About />,
       },
-      {
-        path: "/team",
-        element: <TeamPage />,
-      },
-      {
-        path: "/faq",
-        element: <FAQ />,
-      },
+      // {
+      //   path: "/team",
+      //   element: <TeamPage />,
+      // },
+      // {
+      //   path: "/faq",
+      //   element: <FAQ />,
+      // },
       {
         path: "/contact",
         element: <ContactPage />,

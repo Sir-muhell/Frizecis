@@ -20,7 +20,9 @@ const SliderCard02 = ({ data }) => {
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="slide_content">
-              <h5 className="sub_heading">WELCOME TO Frizecis Global</h5>
+              <h5 className="sub_heading">
+                WELCOME TO Frizecis Global Nig. Ltd.
+              </h5>
               <h2 className="heading capitalize">{heading}</h2>
               <p className="desc">{description}</p>
               <div className="slider_button">

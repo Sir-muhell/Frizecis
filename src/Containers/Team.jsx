@@ -7,7 +7,7 @@ const Team = (props) => {
   const TeamData = [
     {
       id: "1",
-      img: "images/team/team-1.jpg",
+      img: "images/logo192.png",
       tag: "MANAGING DIRECTOR",
       name: "Engr. NZEH, C. Frank (MSc, B.Eng., MNSE, GHSEP, TQMSP, COREN)",
       linkedin:
@@ -74,15 +74,23 @@ const Team = (props) => {
 
             {/* <!-- Add Buttons --> */}
             {/* <div className="swiper-navigation">
-                            <div className="swiper-button-prev"></div>
-                            <div className="swiper-button-next"></div>
-                        </div> */}
+              <div className="swiper-button-prev"></div>
+              <div className="swiper-button-next"></div>
+            </div> */}
 
             {/* <!-- Add Buttons --> */}
-            {/* <div className="owl-nav">
-                            <button type="button" role="presentation" className="owl-prev disabled"><i className="fa fa-long-arrow-left"></i></button>
-                            <button type="button" role="presentation" className="owl-next"><i className="fa fa-long-arrow-right"></i></button>
-                        </div> */}
+            <div className="owl-nav">
+              <button
+                type="button"
+                role="presentation"
+                className="owl-prev disabled"
+              >
+                <i className="fa fa-long-arrow-left"></i>
+              </button>
+              <button type="button" role="presentation" className="owl-next">
+                <i className="fa fa-long-arrow-right"></i>
+              </button>
+            </div>
           </div>
         </div>
       </div>
